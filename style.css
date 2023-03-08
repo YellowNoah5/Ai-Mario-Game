@@ -1,0 +1,65 @@
+.header
+{
+    width: 100%;
+    text-align: left;
+}
+.header button
+{
+    float: right;
+}
+.header h1
+{
+    display: inline;
+}
+.mario_img
+{
+    width:100%
+}
+.playb
+{
+    font-size: 30px !important
+}
+
+#footer
+{
+    background-color: rgb(255, 166, 0);
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    color: rgb(17, 0, 255);
+    margin-bottom: 0;
+    line-height: 2;
+    
+}
+
+.insIMG
+{
+    display:inline-block;
+    width: 45%;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+}
+
+.modal-header
+{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+}
+
+#status
+{
+    font-size: 25px !important;
+    margin-bottom: 10px
+}
